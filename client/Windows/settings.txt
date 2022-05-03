@@ -1,0 +1,6 @@
+clientname= mypc
+numthreads= 4
+extrawork= 1
+verbose= 0
+ip= localhost
+port= 31444

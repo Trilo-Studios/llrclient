@@ -1,0 +1,6 @@
+clientname= gc-1
+numthreads= 1
+extrawork= 5
+verbose= 0
+ip= localhost
+port= 31444
